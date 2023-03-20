@@ -4,8 +4,9 @@
 , python
 # Available plugins (can be overridden)
 , availablePlugins
+# The withPlugins pattern is copied from mailnag pkg.
 # Used in the withPlugins interface at passthru, can be overrided directly, or
-# prefarably via e.g: `themix-gui.withPlugins({...})`. Pattern is copied from mailnag pkg.
+# prefarably via e.g: `themix-gui.withPlugins (ps: [ps.theme_oomox ps.etc])`.
 , themix-gui
 , userPlugins ? []
 }:
