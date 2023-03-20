@@ -1,0 +1,146 @@
+{
+  "version": "1.15.1",
+  "themix-gui": {
+    "url": "https://github.com/themix-project/themix-gui.git",
+    "rev": "e79ca3108a9a0cf8e421570d8b97c3936e9d0fc2",
+    "date": "2022-11-28T22:10:29+01:00",
+    "path": "/nix/store/lfk0h7qqay4kgn7sn72r6vg235ddvm2c-themix-gui-e79ca31",
+    "sha256": "15av1jzpv5lfs2qff4z49sy4dc2rr7b4ln4wb990z4hz3204w61m",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "plugins/theme_materia/materia-theme": {
+    "url": "https://github.com/nana-4/materia-theme.git",
+    "rev": "76cac96ca7fe45dc9e5b9822b0fbb5f4cad47984",
+    "date": "2021-05-12T13:25:11+02:00",
+    "path": "/nix/store/2b6sdq63afhid6zl177if75nvvlbh9r4-materia-theme-76cac96",
+    "sha256": "0jf3rsp2ls28059ly7wl73q2zy3fspvdm9dh0px7nnfcdxz81q6i",
+    "fetchLFS": false,
+    "fetchSubmodules": true,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "plugins/icons_archdroid/archdroid-icon-theme": {
+    "url": "https://github.com/themix-project/archdroid-icon-theme.git",
+    "rev": "b90779de4edbd2dc32cf25541981d8a908d9295b",
+    "date": "2022-10-26T02:32:54+02:00",
+    "path": "/nix/store/szrwvx4w45cfbwzby87lrcnhb8ccjv1x-archdroid-icon-theme-b90779d",
+    "sha256": "03vqscwbhz06dg47jy7h4hqw50n0mh4gfv3m5qspjfi6i2f9rmwz",
+    "fetchLFS": false,
+    "fetchSubmodules": true,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "plugins/icons_gnomecolors/gnome-colors-icon-theme": {
+    "url": "https://github.com/themix-project/gnome-colors-icon-theme.git",
+    "rev": "d2cb7ebbcdad7193b43b1ceeac72f1d0abf3d33e",
+    "date": "2022-10-26T02:25:53+02:00",
+    "path": "/nix/store/rdnmibnc2vxa9983028mclzi8skap8jr-gnome-colors-icon-theme-d2cb7eb",
+    "sha256": "1731mlxmnaw2s9j8pzpy2iv3rrf1jcdfl24aznzjl6yl0vw19mgi",
+    "fetchLFS": false,
+    "fetchSubmodules": true,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "plugins/export_oomoxify": {
+    "url": "https://github.com/themix-project/oomoxify.git",
+    "rev": "f47c36b9198d4bde44d220e295f639671c0cd402",
+    "date": "2022-10-26T03:09:46+02:00",
+    "path": "/nix/store/61ix7g0nhlzr0qg9vzpmbwz8q1mgyvgw-oomoxify-f47c36b",
+    "sha256": "1djhinz16a77f8mpr5aqr5xvgvaiwn9plw5dg48y766zw2p67nqi",
+    "fetchLFS": false,
+    "fetchSubmodules": true,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "plugins/theme_arc/arc-theme": {
+    "url": "https://github.com/NicoHood/arc-theme.git",
+    "rev": "1fd68cc4e846e1dd0c4e2cf3fe37f67b4d098671",
+    "date": "2020-05-14T15:09:28+03:00",
+    "path": "/nix/store/fj9p6g4c3n6770vjxpznx6ysmb2v21c6-arc-theme-1fd68cc",
+    "sha256": "0fixvd7qi3i2gsdjh39rzdw8nvkvcfq57jkrsya7wr2ihcxn60r5",
+    "fetchLFS": false,
+    "fetchSubmodules": true,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "plugins/icons_numix/numix-icon-theme": {
+    "url": "https://github.com/numixproject/numix-icon-theme.git",
+    "rev": "b5001d9628112cddd0f0a598892852af27d6b65d",
+    "date": "2022-09-25T11:40:19+02:00",
+    "path": "/nix/store/x6rk5ll7x0zlh3lrn3ppa4i02rp8jlxa-numix-icon-theme-b5001d9",
+    "sha256": "1flak2a016xz1ar76vgdawc2i5macsxcp6rvhl6pyqnph2bhcsx5",
+    "fetchLFS": false,
+    "fetchSubmodules": true,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "plugins/icons_numix/numix-folders": {
+    "url": "https://github.com/numixproject/numix-folders.git",
+    "rev": "e6197dd14264a8aab1d40bcd1659f904a1562c24",
+    "date": "2021-12-09T23:51:46+01:00",
+    "path": "/nix/store/svj9x8sxlxllnhjy6yk9razy1w2s2iai-numix-folders-e6197dd",
+    "sha256": "19jxb2fljkbaywmzja19hw3cry78v034xmbkznizc6fhfdglrfqm",
+    "fetchLFS": false,
+    "fetchSubmodules": true,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "plugins/icons_papirus/papirus-icon-theme": {
+    "url": "https://github.com/PapirusDevelopmentTeam/papirus-icon-theme.git",
+    "rev": "11e75c8a6cf8dac3a4653fc3ecb760cf99741f38",
+    "date": "2022-09-19T09:59:10+04:00",
+    "path": "/nix/store/8l9zw9i74a3zdxzh9slk07pkwqr0r9fd-papirus-icon-theme-11e75c8",
+    "sha256": "0837dvwri33g61kvgv36cgr11cl7hp8kyw4svyyy6vjpq6dxwzx7",
+    "fetchLFS": false,
+    "fetchSubmodules": true,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "plugins/icons_suruplus/suru-plus": {
+    "url": "https://github.com/gusbemacbe/suru-plus.git",
+    "rev": "a0ad032f0223b7b25f46ad7af50252bd8f8948b6",
+    "date": "2019-03-18T08:03:48-03:00",
+    "path": "/nix/store/cz8i2j1bnbfd2dwjgf2412inw9mbjnr9-suru-plus-a0ad032",
+    "sha256": "1gwxgs05g0zpgnr19ws34i1jmc331hb6q37lim72rz04jmb1f78y",
+    "fetchLFS": false,
+    "fetchSubmodules": true,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "plugins/icons_suruplus_aspromauros/suru-plus-aspromauros": {
+    "url": "https://github.com/gusbemacbe/suru-plus-aspromauros.git",
+    "rev": "d43a8ec43804c91d782be2d411da6ddccf32fcb1",
+    "date": "2019-06-05T03:23:51-03:00",
+    "path": "/nix/store/j5ma8h0qb228wq837ycda11ddmlyz7i6-suru-plus-aspromauros-d43a8ec",
+    "sha256": "02fj5dfq88679i4r1m8gkzqyl84xag9jmb00iyrmkv8v61qf5dac",
+    "fetchLFS": false,
+    "fetchSubmodules": true,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "plugins/theme_oomox": {
+    "url": "https://github.com/themix-project/oomox-gtk-theme.git",
+    "rev": "f1412f80e280eb964a0d100ce6497a1c54ac612f",
+    "date": "2022-11-26T21:50:09+01:00",
+    "path": "/nix/store/70i3vajsrxmfdzn5aa45dnp8bv5zzj7n-oomox-gtk-theme-f1412f8",
+    "sha256": "0g2hyj4pba4wwlcskra1zi6gad53ymy8sgnz7qlrd7ah6s3ps65r",
+    "fetchLFS": false,
+    "fetchSubmodules": true,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "plugins/base16": {
+    "url": "https://github.com/themix-project/themix-plugin-base16.git",
+    "rev": "77f0bfaf9a6074efe43cc7afeff290563fb51c48",
+    "date": "2022-11-07T08:24:17+01:00",
+    "path": "/nix/store/3hl73r7dhana0d3iv3a8wlk5bla4qjbh-themix-plugin-base16-77f0bfa",
+    "sha256": "1mnw5h93rd5j2r7micsqfasdv8vgi0n6hwdr1fhsk229iacp86qz",
+    "fetchLFS": false,
+    "fetchSubmodules": true,
+    "deepClone": false,
+    "leaveDotGit": false
+  }
+}
